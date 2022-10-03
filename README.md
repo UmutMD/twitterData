@@ -122,4 +122,5 @@ def getDate(x):
         return None
 ```
 Some .ipynb files may appear as not opening because of the fact that there are too many lines, I will explain through the source codes on the day of the presentation.
+
 Umut Mert Demirci
